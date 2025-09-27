@@ -11,7 +11,7 @@
 - **Bookstore POS System** → Inventory, Sales, Returns, and Membership Integration  
 - **SPA POS System** → Point-of-Sale tailored for service-based businesses  
 - **Manufacturing Workflow System** → Production tracking, stock management, and process efficiency  
-- **Odoo ERP Customization (LMS)** → Academic certification, ERP modules, and Learning Management System  
+- **Odoo ERP Customization** → Academic certification, ERP modules, and Learning Management System  
 
 
 🎓 **Certifications & Learning:**  
